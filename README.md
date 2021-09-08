@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pik15-shdo.github.io/rsschool-cv/cv
