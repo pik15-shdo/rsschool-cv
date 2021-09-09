@@ -16,7 +16,7 @@
 - I have experience working as part of a team and individually.
 
 ---
-# Skills
+## Skills
 
 - HTML
 - CSS
