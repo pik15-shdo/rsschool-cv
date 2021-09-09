@@ -82,3 +82,26 @@ ul{
 	width: 80%;
 	border-bottom: 2px solid lightgrey;
 }
+.experience{
+	border-bottom: 2px solid lightgrey;
+}
+.edu{
+	border-bottom: 2px solid lightgrey;
+}
+.skills{
+	border-bottom: 2px solid lightgrey;
+}
+footer{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+.img-rs-school{
+	padding: 10px;
+	width: 65px;
+	height: 45px;	
+}
+.git{
+	padding: 10px;
+}
