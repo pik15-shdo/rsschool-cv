@@ -1,0 +1,107 @@
+body{
+	font-family:  'IBM Plex Serif', serif;
+	margin: 0;
+}
+.main-container{
+	display: grid;
+	justify-items: center;
+}
+
+aside{
+	padding: 10px;
+	background-color: #B0C4DE;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+main{
+	padding: 10px;
+	padding-left: 40px;
+	background-color: #E6E6FA;
+}
+
+footer{
+	background-color: #A9A9A9;
+	grid-column: 1/3;
+	width: 100%;
+}
+.main-content{
+	display: grid;
+	grid-template-columns: 40% 60%;
+	grid-template-rows: 90% 10%;
+	width: 80%;
+}
+
+.img > img{
+	padding-top: 30px;
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+}
+
+h1{
+	font-size: 24pt;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+ul{
+	list-style: none;
+}
+.location{
+	width: 20px;
+	height: 20px;
+	padding-right: 5px;
+}
+.phone{
+	width: 20px;
+	height: 20px;
+	padding-right: 5px;
+}
+.mail{
+	width: 20px;
+	height: 20px;
+	padding-right: 5px;
+}
+ .profile{
+	padding-bottom: 15px;
+}
+.name_surname{
+	width: 100%;
+	border-bottom: 2px solid lightgrey;
+}
+.contact{
+	width: 100%;
+	border-bottom: 2px solid lightgrey;
+}
+.profile{
+	width: 80%;
+	border-bottom: 2px solid lightgrey;
+}
+.experience{
+	border-bottom: 2px solid lightgrey;
+}
+.edu{
+	border-bottom: 2px solid lightgrey;
+}
+.skills{
+	border-bottom: 2px solid lightgrey;
+}
+footer{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+}
+.img-rs-school{
+	padding: 10px;
+	width: 65px;
+	height: 45px;	
+}
+.git{
+	padding: 10px;
+}
